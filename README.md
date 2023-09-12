@@ -8,8 +8,9 @@ Este repositório condensa conteúdos relacionados a programação e objetivamen
 ## Conteúdo
 
 1. [Por que programamos?](por-que-programamos/README.md)
-0. Construindo algoritmos
+0. [Construindo algoritmos](construindo-algoritmos/README.md)
 0. Linguagem de programação
+0. Lógica binária ou booleana
 0. Como representamos dados
 0. Armazenamos dados
 0. Escrevendo o seu primeiro programa
