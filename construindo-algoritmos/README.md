@@ -43,13 +43,57 @@ primeiro_numero
 segundo_numero
 total
 
-primeiro_numero RECEBE E ARMAZENA entrada do teclado
-segundo_numero RECEBE E ARMAZENA entrada do teclado
+Inicio do programa
 
-CONVERTE primeiro_numero em INTEIRO
-CONVERTE segundo_numero em INTEIRO
+primeiro_numero ARMAZENA entrada do teclado
+segundo_numero ARMAZENA entrada do teclado
 
-total RECEBE e ARMAZENA primeiro_numero + segundo_numero
+CONVERTE primeiro_numero em NÚMERO INTEIRO
+CONVERTE segundo_numero em NÚMERO INTEIRO
+
+total ARMAZENA primeiro_numero + segundo_numero
 
 ESCREVE_NA_TELA total
+Fim do programa
+```
+
+## Nosso segundo programa
+
+Agora o seu chefe gostaria que o programa exibisse a tabuada de acordo com a entrada do teclado:
+
+```
+VARIÁVEIS
+tabua_de
+ultimo_numero_da_tabuada
+
+Inicio do programa
+
+# atribui valores as variáveis
+ultimo_numero_da_tabuada ARMAZENA 10
+tabua_de ARMAZENA entrada do teclado
+contador ARMAZENA 1
+
+CONVERTE tabua_de em NÚMERO INTEIRO
+
+Enquanto contador <= ultimo_numero_da_tabuada
+ ESCREVE_NA_TELA "%i x %i = %i" % (contador, tabuada_de, contador * tabuada_de)
+ contador ARMAZENA contador + 1
+Fim-Enquanto
+
+Fim-do-programa
+```
+
+Suponha que você digitou `2`, então a saída do programa será:
+
+```
+1 x 2 = 2
+2 x 2 = 4
+3 x 2 = 6
+4 x 2 = 8
+5 x 2 = 10
+6 x 2 = 12
+7 x 2 = 14
+8 x 2 = 16
+9 x 2 = 18
+10 x 2 = 20
 ```
