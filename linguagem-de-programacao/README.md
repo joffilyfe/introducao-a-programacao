@@ -24,6 +24,17 @@ A maioria das linguagens se encaixam nessa categoria. Elas são ditas de alto n�
 escrito. Escrever e ler programas se torna mais fácil. O programador passa a ter centralidade porque um dos
 objetos dessas linguagens é habilitar qualquer pessoa a escrever código.
 
+## Python
+
+Durante a leitura desse material você encontrar trechos de código escritos em `Python`. É uma linguagem de
+alto nível criada por Guido van Rossum em 1991, desde então vem sendo adotada em diversas áreas como
+desenvolvimento de sistemas para internet, análises de dados, edição de imagem e vídeo, etc.
+
+Dada a sua capacidade e expressividade para a escrita e leitura de código, Python ganhou está sendo adotada
+por cursos de programação em universidades brasileiras e estrangeiras. A quantidade de usuários torna fácil
+encontrar respostas para problemas em sites como [StackOverflow](https://stackoverflow.com/).
+# Anexos
+
 **Cartão perfurado**
 
 ![Cartão perfurado](punch-card.webp)
@@ -35,3 +46,5 @@ objetos dessas linguagens é habilitar qualquer pessoa a escrever código.
 ## Links
 
 - [História das linguagens de programação](https://pt.wikipedia.org/wiki/Hist%C3%B3ria_das_linguagens_de_programa%C3%A7%C3%A3o)
+- [Python - Site oficial](https://www.python.org/)
+- [StackOverflow](https://stackoverflow.com/)
